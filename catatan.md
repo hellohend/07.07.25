@@ -2,7 +2,7 @@ jenkins
 1. Introduction to CI/CD
 Dokumen fokus pada penggunaan Jenkins untuk membangun pipeline CI/CD modern: 
 
-
+k
 Pipeline as Code: Menulis definisi pipeline langsung di file teks (Jenkinsfile) yang dikelola bersama kode sumber.
 
 Declarative vs Scripted:
